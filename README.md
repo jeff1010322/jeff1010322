@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://vaunt.dev">
+  <img alighn="center" src="https://api.vaunt.dev/entities/jeff1010322/contributions?format=svg" />
+</a>
+
 <!--
 **jeff1010322/jeff1010322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
