@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://vaunt.dev">
-  <img alighn="center" src="https://api.vaunt.dev/entities/jeff1010322/contributions?format=svg" />
+  <img align="center" src="https://api.vaunt.dev/entities/jeff1010322/contributions?format=svg" />
 </a>
 
 <!--
