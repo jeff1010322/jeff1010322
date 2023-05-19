@@ -6,4 +6,4 @@
   </a>
 </p>
 
-[![Achievements](https://api.vaunt.dev/v1/github/entities/jeff1010322/contributions?format=svg&private=true)](https://api.vaunt.dev/v1/github/entities/jeff1010322/contributions?format=svg&private=true)
+[![Achievements](https://api.vaunt.dev/v1/github/entities/jeff1010322/achievements?format=html&limit=10)](https://api.vaunt.dev/v1/github/entities/jeff1010322/achievements?format=html&limit=10)
