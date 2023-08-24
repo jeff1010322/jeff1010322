@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/jeff1010322/badges/community)](https://community.vaunt.dev/board/jeff1010322)
 
 <p>
   <a href="https://vaunt.dev">
