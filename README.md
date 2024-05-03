@@ -9,5 +9,7 @@
 # 🥇 Vaunt Achievements
 
 <p>
-  <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/jeff1010322/achievements?format=svg&limit=8&raw=true" width="600" />
+  <a href="https://vaunt.dev">
+    <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/jeff1010322/achievements?format=svg&limit=8&raw=true" width="600" />
+  </a>
 </p>
